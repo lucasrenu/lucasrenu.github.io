@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lucasrenu.github.io
+Token: 080a9cb3684170602fb09f0ec413425f15ce6cdcf66b6d98db15490d406d7e63
